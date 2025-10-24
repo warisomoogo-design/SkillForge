@@ -4,8 +4,8 @@ authors = []
 description = ""
 telemetry = true
 requirements = []
-[contracts.skill-verification]
-path = "contracts/skill-verification.clar"
+[contracts.reputation-trust]
+path = "contracts/reputation-trust.clar"
 depends_on = []
 
 [repl]
