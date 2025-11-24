@@ -4,6 +4,10 @@ authors = []
 description = ""
 telemetry = true
 requirements = []
+[contracts.dao-governance]
+path = "contracts/dao-governance.clar"
+depends_on = []
+
 [contracts.reputation-trust]
 path = "contracts/reputation-trust.clar"
 depends_on = []
